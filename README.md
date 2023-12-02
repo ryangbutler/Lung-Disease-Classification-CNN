@@ -1,7 +1,7 @@
 # Lung-Disease-Classification-CNN
 
-This notebook was a project done as part of my Caltech training. <br>
-The project goal was to create and train deep-learning models for classification of lung diseases from x-ray images<br>
+This notebook was a project done as part of my Caltech training. <br><br>
+The project goal was to create and train deep-learning models for classification of lung diseases from x-ray images<br><br>
 It includes:<br>
 * Data preprocessing steps (loading data, descriptive stats, data augmentation)
 * Training multiple CNN models
